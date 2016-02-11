@@ -1,0 +1,27 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "e429c3e4-1bd5-5440-a951-64a203606fa8++7247",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "e429c3e4-1bd5-5440-a951-64a203606fa8++7247" : {
+      "DVTSourceControlWorkingCopyRepositoryBranchesLocationKey" : "branches",
+      "DVTSourceControlWorkingCopyRepositoryTagsLocationKey" : "tags",
+      "DVTSourceControlWorkingCopyRepositoryPrimaryBranchLocationKey" : "trunk"
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "e429c3e4-1bd5-5440-a951-64a203606fa8++7247" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2F9214DB-7711-4C94-967A-B0C1BB30D896",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "e429c3e4-1bd5-5440-a951-64a203606fa8++7247" : "test\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MarumaruAdFree",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MarumaruAdFree\/MarumaruAdFree.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/180.70.96.119\/iOS",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "e429c3e4-1bd5-5440-a951-64a203606fa8++7247"
+    }
+  ]
+}
